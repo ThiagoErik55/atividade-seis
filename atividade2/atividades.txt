@@ -1,0 +1,11 @@
+Atividade 2: Intermediário
+
+1 - Implemente uma calculadora com menu switch: soma, subtração, multiplicação, 
+divisão e sair. Trate divisão por zero com if.
+
+2 - Crie um ArrayList<String> de nomes. Implemente opções para: adicionar, 
+remover, buscar (pesquisa parcial) e exibir todos os nomes em ordem alfabética 
+(Collections.sort).
+
+3 - Crie a classe Aluno com nome, matrícula e nota. 
+Faça um sistema que cadastre alunos e exiba apenas os aprovados (nota >= 6.0).
